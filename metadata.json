@@ -1,0 +1,6 @@
+{
+  "name": "Dermiscope AI",
+  "description": "Premium AI-powered dermatology analysis platform providing non-invasive skin assessments, customized routine tracking, hydration scores, and healthcare chat assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
